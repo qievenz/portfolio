@@ -1,0 +1,36 @@
+{
+    "translation": {
+        "nav": {
+            "tech": "Tech",
+            "exp": "Experience",
+            "projects": "Projects",
+            "contact": "Contact"
+        },
+        "common": {
+            "present": "Present"
+        },
+        "exp": {
+            "iol": {
+                "desc": "Leading microservices development and partners integration using Scrum. High-impact implementation of CI/CD, processing big data with Python, and achieving 20x throughput increase in trading systems using Microsoft Orleans."
+            },
+            "galicia": {
+                "desc": "Managed development and support for banking applications in C#, Java, and Cobol. Led critical data migrations to SAP and optimized production processes for teams like Payments and Core Legacy."
+            }
+        },
+        "hero": {
+            "subtitle": "Software Engineer",
+            "title": "Building <1>robust</1> systems and automation tools.",
+            "description": "Software developer with over 10 years of experience in the financial industry. Focused on backend performance, microservices, and practical automation.",
+            "cta_projects": "View Projects",
+            "cta_contact": "Contact Me"
+        },
+        "sections": {
+            "tech_stack": "Core Stack",
+            "experience": "Professional Journey",
+            "featured_projects": "Case Studies"
+        },
+        "footer": {
+            "copy": "© {{year}} Ivan Velazquez. Backend & Automation Portfolio."
+        }
+    }
+}

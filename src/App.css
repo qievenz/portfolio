@@ -1,0 +1,13 @@
+.app-container {
+  min-height: 100vh;
+  padding-bottom: 5rem;
+}
+
+section {
+  padding: 5rem 0;
+}
+
+.hero-section {
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+}
