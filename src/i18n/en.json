@@ -13,6 +13,10 @@
             "iol": {
                 "desc": "Leading microservices development and partners integration using Scrum. High-impact implementation of CI/CD, processing big data with Python, and achieving 20x throughput increase in trading systems using Microsoft Orleans."
             },
+            "qimark": {
+                "role": "Independent Software Engineer",
+                "desc": "Built and maintained an agnostic video content management platform with AI-powered summaries and interactive chat for YouTube/TikTok/Reels."
+            },
             "galicia": {
                 "desc": "Managed development and support for banking applications in C#, Java, and Cobol. Led critical data migrations to SAP and optimized production processes for teams like Payments and Core Legacy."
             }

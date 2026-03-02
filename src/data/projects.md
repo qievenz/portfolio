@@ -1,7 +1,7 @@
 ---
-title: "Qimark"
+title: "QiMark"
 description_es: "Plataforma agnóstica para la gestión de contenido en video. Incluye aplicación Android y portal web con IA para resúmenes y chat interactivo con videos de YouTube/TikTok/Reels."
-description_en: "Agnostic video content management platform. Includes Android app and web portal featuring AI-powered summaries and interactive chat for YouTube/TikTok/Reels."
+description_en: "Agnostic video content management platform. Includes Android app and web portal featuring AI-powered summaries and interactive chat with videos."
 tech: ["React", ".NET", "Android", "OpenAI", "Lemon Squeezy"]
 icon: "Video"
 live: "https://qimark.com?utm_source=portfolio"

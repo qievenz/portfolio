@@ -13,6 +13,10 @@
             "iol": {
                 "desc": "Liderazgo en desarrollo de microservicios e integración de socios bajo Scrum. Implementación de CI/CD, procesamiento de Big Data con Python y optimización masiva de performance (x20) en sistemas de trading con Microsoft Orleans."
             },
+            "qimark": {
+                "role": "Desarrollador Independiente",
+                "desc": "Creación y mantenimiento de una plataforma agnóstica para la gestión de contenido en video con transcripciones e IA para resúmenes y chat interactivo."
+            },
             "galicia": {
                 "desc": "Soporte y desarrollo de aplicaciones bancarias en C#, Java y Cobol. Liderazgo en migraciones críticas a SAP y optimización de procesos productivos para equipos de Pagos y Core Legacy."
             }

@@ -1,11 +1,9 @@
-import React from 'react';
-import { Github, Linkedin, Mail, Coffee, Twitter } from 'lucide-react';
+import { Github, Linkedin, Mail } from 'lucide-react';
 
 const links = [
     { name: 'GitHub', icon: <Github size={20} />, url: 'https://github.com/qievenz', color: '#fff' },
-    { name: 'LinkedIn', icon: <Linkedin size={20} />, url: 'https://linkedin.com/in/qievenz', color: '#0077b5' },
+    { name: 'LinkedIn', icon: <Linkedin size={20} />, url: 'https://www.linkedin.com/in/ivan-velazquez-8308709b/', color: '#0077b5' },
     { name: 'Email', icon: <Mail size={20} />, url: 'mailto:qievenz@example.com', color: '#ea4335' },
-    { name: 'Buy me a coffee', icon: <Coffee size={20} />, url: 'https://ko-fi.com/qievenz', color: '#ffdd00' },
 ];
 
 export const SocialLinks = () => {

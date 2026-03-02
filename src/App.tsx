@@ -71,7 +71,7 @@ function App() {
         <p>{t('footer.copy', { year: new Date().getFullYear() })}</p>
         <div style={{ display: 'flex', gap: '1.5rem' }}>
           <a href="https://github.com/qievenz">GitHub</a>
-          <a href="https://linkedin.com/in/qievenz">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/ivan-velazquez-8308709b/">LinkedIn</a>
         </div>
       </footer>
     </div>

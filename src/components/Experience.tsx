@@ -7,9 +7,16 @@ export const Experience = () => {
 
     const experiences = [
         {
+            company: "QiMark",
+            role: t('exp.qimark.role'),
+            period: "Oct 2025 - " + t('common.present'),
+            description: t('exp.qimark.desc'),
+            techs: ["React", ".NET", "Android", "OpenAI", "Cloud"]
+        },
+        {
             company: "InvertirOnline",
             role: "Backend Developer & Architect",
-            period: "2020 - " + t('common.present'),
+            period: "2020 - Oct 2025",
             description: t('exp.iol.desc'),
             techs: ["C# .NET", "NestJS", "Kafka", "Orleans", "AWS", "Jupyter"]
         },
