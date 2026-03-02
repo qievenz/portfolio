@@ -31,7 +31,7 @@
         "sections": {
             "tech_stack": "Core Stack",
             "experience": "Professional Journey",
-            "featured_projects": "Case Studies"
+            "featured_projects": "Projects"
         },
         "footer": {
             "copy": "© {{year}} Ivan Velazquez. Backend & Automation Portfolio."
