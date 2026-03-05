@@ -10,7 +10,6 @@ import { LanguageSwitcher } from './components/LanguageSwitcher';
 import { LegalPage } from './components/LegalPage';
 
 function PortfolioHome() {
-  const { t } = useTranslation();
   return (
     <main>
       <Hero />
