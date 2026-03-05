@@ -34,7 +34,51 @@
             "featured_projects": "Proyectos"
         },
         "footer": {
-            "copy": "© {{year}} Ivan Velazquez. Portfolio de Backend & Automation."
+            "copy": "© {{year}} Ivan Velazquez. Portfolio de Backend & Automation.",
+            "tos": "Términos de Servicio",
+            "privacy": "Política de Privacidad",
+            "back_home": "Volver al Inicio"
+        },
+        "legal": {
+            "tos_title": "Términos de Servicio - Qievenz Social Automation",
+            "privacy_title": "Política de Privacidad - Qievenz Social Automation",
+            "last_updated": "Última actualización: 5 de marzo de 2026",
+            "tos_sections": [
+                {
+                    "title": "1. Descripción del Servicio",
+                    "content": "Qievenz Social Automation es una plataforma personal construida para facilitar la gestión y publicación automatizada de contenido en redes sociales. Al acceder o utilizar nuestro sitio web y servicios, incluyendo las integraciones de terceros (como TikTok), aceptas estar sujeto a estos Términos de Servicio."
+                },
+                {
+                    "title": "2. Uso de Integraciones (TikTok Login Kit y Share Kit)",
+                    "content": "Nuestra aplicación utiliza las APIs oficiales de terceros para funcionar. Específicamente, utilizamos el 'TikTok Login Kit' exclusivamente para autenticar de forma segura tu cuenta y verificar tu identidad. Utilizamos el 'TikTok Video/Share Kit' estrictamente para permitir la funcionalidad principal de la plataforma: publicar videos y contenido multimedia directamente en tu perfil en tu nombre, basado en los flujos de automatización que configures. No utilizamos estos kits para ningún otro propósito que no esté explícitamente mencionado aquí."
+                },
+                {
+                    "title": "3. Responsabilidades del Usuario",
+                    "content": "Esta herramienta se proporciona 'tal cual' para uso personal. Eres responsable del contenido que publicas a través de nuestras integraciones automatizadas. No somos responsables por el mal uso de la plataforma, interrupciones del servicio, o cualquier acción tomada por plataformas de terceros (como baneos de cuentas) debido al incumplimiento de sus respectivos términos y condiciones."
+                },
+                {
+                    "title": "4. Limitación de Responsabilidad",
+                    "content": "En la máxima medida permitida por la ley aplicable, Qievenz Social Automation no será responsable por daños indirectos, incidentales, o pérdida de datos derivados del uso o la incapacidad de uso del servicio, incluyendo fallas relacionadas con cambios en las APIs de terceros."
+                }
+            ],
+            "privacy_sections": [
+                {
+                    "title": "1. Recopilación de Datos",
+                    "content": "Respetamos tu privacidad. Solo recopilamos la información mínima estritamente necesaria para proporcionar nuestro servicio de automatización. Cuando utilizas integraciones de terceros (como el Login Kit de TikTok), recopilamos datos básicos de perfil (como tu nombre de usuario e identificador) y tokens de autenticación (Access Tokens/Refresh Tokens)."
+                },
+                {
+                    "title": "2. Uso de los Datos",
+                    "content": "Los datos recopilados (tokens e información de perfil) se utilizan única y exclusivamente para mantener activa la sesión de tu cuenta vinculada y ejecutar las acciones de publicación automatizada (a través del Share Kit) que tú mismo configures. No utilizamos tus datos para rastreo, perfilado publicitario o analíticas invasivas."
+                },
+                {
+                    "title": "3. Compartición de Datos",
+                    "content": "No vendemos, alquilamos ni compartimos tus datos personales o tokens de autenticación con terceros bajo ninguna circunstancia."
+                },
+                {
+                    "title": "4. Retención y Eliminación de Datos",
+                    "content": "Retenemos tus tokens de autenticación y configuraciones solo mientras utilices activamente el servicio. Tienes el derecho de solicitar la eliminación de todos tus datos en cualquier momento. Puedes revocar el acceso de nuestra aplicación directamente desde la configuración de seguridad de tu cuenta de TikTok, lo que invalidará inmediatamente cualquier token que tengamos almacenado."
+                }
+            ]
         }
     }
 }
